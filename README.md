@@ -3,4 +3,4 @@ qb-apartments edited to only have Atla street appartment like No-pixel
 
 ## Screenshots
 
-![map](https://imgur.com/undefined)
+![map](https://i.imgur.com/LJ0hGXv.png)
